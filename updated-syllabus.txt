@@ -1,0 +1,13 @@
+core java + updated curriculum
+
+--------------Updated Curriculum-------------
+Module 1:
+Java 8 & its features
+Java with SQL
+Java with junits and code quality tools/frameworks
+
+Module 2:
+Java with Selenium
+Java with Cucumber
+
+Arun Pandian: 8903095840
